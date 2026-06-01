@@ -1,2 +1,7 @@
-# demo-escribania-melchiori-mariana-y-melchiori
-Demo web para Escribanía Melchiori Mariana y Melchiori Leonardo — diseñada por eterlab.
+# Escribanía Melchiori Mariana y Melchiori Leonardo
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
